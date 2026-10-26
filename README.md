@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chris 👋
 
-<!--
-**chengboonrong/chengboonrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Kuala Lumpur / Petaling Jaya, Malaysia, with 5+ years of experience building and shipping production software.
 
-Here are some ideas to get you started:
+**Currently exploring:** AI-assisted development, 3D graphics on the web (three.js / WebGPU), and native mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured work**
+- [KL Rush](https://github.com/chengboonrong/kl-rush-preview): an open-world Kuala Lumpur you can drive in your browser
+- [starlake](https://github.com/chengboonrong/starlake): a living pixel-art lake under the stars, in one HTML file
+- [lid-awake](https://github.com/chengboonrong/lid-awake): keep a MacBook awake with the lid closed, only while plugged in
+- [rate-board](https://github.com/chengboonrong/rate-board): a rate calculator for Klang Valley car parks, verified against real receipts
+- [kiosk-anatomy](https://github.com/chengboonrong/kiosk-anatomy): an interactive isometric figure of how a self-service ordering kiosk works
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/toshio97/)
